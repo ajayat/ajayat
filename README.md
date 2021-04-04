@@ -11,8 +11,8 @@ I think computer science is a universal, very rich and very vast field; and will
 I have been coding in Python since I was 13 years old, it's a language that I really appreciate: you can use it for almost any project!
 I use it for scientific use, to build website backends and APIs, softwares and algorithms.
 
-**~~Python is slow?~~** But do we need speed on all projects? <br>
-**~~Python is for beginners?~~** Do you know advanced features like generators, metaclasses, descriptors, coroutines?
+*Python is slow?* But do we need speed on all projects? <br>
+*Python is for beginners?* Do you know advanced features like generators, metaclasses, descriptors, coroutines?
 It's a language that targets both beginners and confirmed developers by its simple and concise syntax for great coding efficiency!
 
 ### Libraries and frameworks:
@@ -36,7 +36,7 @@ It's a language that targets both beginners and confirmed developers by its simp
 I started coding in Javascript a year ago, it's a must-have for web development to build dynamic websites.
 
 #### Projects
- - [Math En Jeans](https://github.com/Adridri24/MEJ) (A website for the math club at Albert Claveille, which is a High School, built with
+ - [Math En Jeans](https://github.com/Adridri24/MEJ) (A website for the math club at Albert Claveille high school, built with
    [Alexis B.](https://github.com/Alexis-ba6))
    
 ### C++
@@ -48,6 +48,7 @@ I have been learning C++ for the past severals months, I needed a compiled and p
 [![PostgreSQL](img/PostgreSQL.png)](https://www.postgresql.org/)
 [![MySQL](img/MySQL.png)](https://www.mysql.com/)
 [![Docker](img/Docker.png)](https://www.docker.com/)
+[![LaTeX](img/LaTeX.png)](https://www.latex-project.org/)
 
 ## Contact Me
 [![Mail](https://img.icons8.com/color/40/000000/gmail--v1.png)](mailto:adrien.jayat@protonmail.com) 
