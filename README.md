@@ -38,7 +38,7 @@ I started coding in Javascript two years ago, it's a must-have for web developme
 I have been learning C++ for the past last year as I needed a compiled and powerful language, especially for video games (Unreal Engine). 
 
 ### Ocaml
-[![OCaml](img/Ocaml.png)][OCaml]
+[![OCaml](img/OCaml.png)][OCaml]
 I need OCaml for my next studies, It's not the most pleasant language but it's very powerful for functional programming.
 
 ### Julia
