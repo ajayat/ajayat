@@ -1,19 +1,13 @@
 ## Welcome to my Github profile 👋
-My name is Adrien Jayat and I am a student in the last year of High School, specialising in Maths, Physics and Computer Science.
-
-I learned programming by myself, I’m fascinated by its logical and creative aspect. I think computer science is a universal, 
-extraordinarily rich and vast field and will undoubtedly be at the heart of the decades to come.
+My name is Adrien Jayat and I am a student in the last year of High School, specialising in Maths, Physics and Computer Science. \n
+I learned programming by myself, I’m fascinated by its logical and creative aspect.
 
 ## My Skills
 
 ### Python 3
 [![Python 3](https://img.icons8.com/color/75/000000/python.png)](https://python.org)
-I have been coding in Python since I was 14 years old; it's a language that I really appreciate as you can use it for almost any project. 
+I have been coding in Python since I was 13 years old; it's a language that I really appreciate as you can use it for almost any project. 
 Personally, I value it for scientific uses, to build website backends, APIs, software and algorithms.
- 
-*Python is slow!* But is speed always the most essential thing? <br/>
-*Python is for beginners!*  Not necessarily: do you know the advanced features such as generators, metaclasses, descriptors, coroutines? 
-Python is a language that targets both beginners and confirmed developers with its simple and concise syntax for great coding efficiency!
 
 ### Libraries and frameworks:
 [![Numpy](img/Numpy.png)][Numpy]
@@ -33,7 +27,7 @@ Python is a language that targets both beginners and confirmed developers with i
 [![Javascript](https://img.icons8.com/color/70/000000/javascript.png)][Javascript]
 [![React](img/React.png)][React]
 
-I started coding in Javascript a year ago, it's a must-have for web development to build dynamic websites.
+I started coding in Javascript two years ago, it's a must-have for web development to build dynamic websites.
 
 #### Projects
  - [Math En Jeans](https://github.com/Adridri24/MEJ) (A website for the math club at my high school, Albert Claveille,, built with
@@ -41,8 +35,15 @@ I started coding in Javascript a year ago, it's a must-have for web development 
 
 ### C++
 [![C++](https://img.icons8.com/color/70/000000/c-plus-plus-logo.png)][C++]
-I have been learning C++ for the past several months as I needed a compiled and powerful language, especially for video games. 
-I like static typing and C++ offers many advantages but it requires more coding time and it's less portable than Python.
+I have been learning C++ for the past last year as I needed a compiled and powerful language, especially for video games (Unreal Engine). 
+
+### Ocaml
+[![OCaml](img/Ocaml.png)][OCaml]
+I need OCaml for my next studies, It's not the most pleasant language but it's very powerful for functional programming.
+
+### Julia
+[![Julia](img/Julia.png)][Julia]
+The little new one that I really like, Julia is a very promising language which combines the beauty and syntactic simplicity of python with the speed of C++. This makes it the ideal language for data science and math!
 
 ### Other tools & languages
 [![Git](https://img.icons8.com/color/90/000000/git.png)][Git]
@@ -70,3 +71,5 @@ I like static typing and C++ offers many advantages but it requires more coding 
 [MySQL]: https://www.mysql.com/
 [Docker]: https://www.docker.com/
 [LaTeX]: (https://www.latex-project.org/
+[OCaml]: https://ocaml.org/
+[Julia]: https://julialang.org/
