@@ -1,5 +1,5 @@
 ## Welcome to my Github profile 👋
-My name is Adrien Jayat and I am a student in the last year of High School, specialising in Maths, Physics and Computer Science. \n
+I am a student in the last year of High School, specialising in Maths, Physics and Computer Science. \n
 I learned programming by myself, I’m fascinated by its logical and creative aspect.
 
 ## My Skills
