@@ -1,5 +1,5 @@
 ## Welcome to my Github profile 👋
-I am a student in the last year of High School, specialising in Maths, Physics and Computer Science. \n
+I am a student in the last year of High School, specialising in Maths, Physics and Computer Science. <br>
 I learned programming by myself, I’m fascinated by its logical and creative aspect.
 
 ## My Skills
@@ -39,7 +39,7 @@ I have been learning C++ for the past last year as I needed a compiled and power
 
 ### Ocaml
 [![OCaml](img/OCaml.png)][OCaml]
-I need OCaml for my next studies, It's not the most pleasant language but it's very powerful for functional programming.
+I need OCaml for my next studies, It's a very powerful language for functional programming.
 
 ### Julia
 [![Julia](img/Julia.png)][Julia]
