@@ -1,10 +1,11 @@
-## Welcome to my Github profile 👋
-I am a student in a scientific preparatory class for engineering schools in France. I am passionate about math and computer science. <br>
-I learned programming by myself, I’m fascinated by its logical and creative aspect.
+## About Me
+I am a student in mathematics and computer science in France. <br>
+I learned programming by myself and I am passionate about blockhain and algorithms.
 
 ### Python 3
 I have been coding in [Python] since I was 13 years old; it's a language that I really appreciate as you can use it for almost any project. 
-Personally, I value it for scientific uses, to build website backends, APIs, software and algorithms.
+Personally, I value it for scientific uses, to build website backends, APIs, algorithms and more recently, smart contracts on Ethereum.
+
 
 #### Libraries and frameworks:
 [![Numpy](img/Numpy.png)][Numpy]
@@ -15,26 +16,25 @@ Personally, I value it for scientific uses, to build website backends, APIs, sof
 [![Tensorflow](img/Tensorflow.png)][Tensorflow]
 [![Pandas](img/Pandas.png)][Pandas]
 
-- [pyboss](https://github.com/ajayat/pyboss) 
-  (A Discord Bot built for my class during lockdown in 2020. Provide features like quizzes, notebook & calendar, role automation...)
+- [mp2i-discord-bot](https://github.com/prepas-mp2i/mp2i-discord-bot) 
+  (A bot built for a Discord server of students. Provide features like music, role automation, custom commands...)
 - [robocup](https://github.com/ajayat/robocup) (A project for the robotics club at my high school).
-- [exercism.io](https://github.com/ajayat/exercism.io)
-  (My solutions to the language tracks on [Exercism.io](https://exercism.io/) tracks in C++, Python and OCaml).
 
 ### Javascript
-I started coding in [Javascript] two years ago, it's a must-have for web development to build dynamic websites.
+I started coding in [Javascript] three years ago, it's a must-have for web development.
 
  - [mej-claveille](https://github.com/ajayat/mej-claveille) (A website for the math club at my high school, built with
    [Alexis B.](https://github.com/alexba6))
 
 ### C++
-I have been learning [C++] for the past last year as I needed a compiled and powerful language, especially for video games (Unreal Engine).
+I have been learning C & [C++] for the past two year as I needed a compiled and powerful language.
 - [tree-generator](https://github.com/ajayat/tree-generator) 
-  (A C++ program to show a  tree in the output console).
+  (A C++ program to show a tree in the output console).
 
-### Ocaml & Julia
-[OCaml] a very powerful language for functional programming. <br>
-[Julia] is the little new one that I really like, it's a very promising language which combines the beauty and syntactic simplicity of python with the speed of C++. This makes it the ideal language for data science and math!
+### OCaml & Julia
+[Julia] is the little new one that I really like, it's a very promising language which combines the beauty and syntactic simplicity of Python with the speed of C++. 
+This makes it the ideal language for data science and math! </br>
+I have also good basis in [OCaml].
 
 ### Other tools & languages
 [![React](img/React.png)][React]
