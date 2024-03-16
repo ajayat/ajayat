@@ -27,7 +27,7 @@ I started coding in [Javascript] three years ago, it's a must-have for web devel
    [Alexis B.](https://github.com/alexba6))
 
 ### C/C++
-I have a strong knownledge of C and [C++]. I use C for system programming mainly, and C++ to make projects such as games.
+I have a very good command of C and [C++]. I use C for system programming mainly, and C++ to make projects such as games.
 - [tree-generator](https://github.com/ajayat/tree-generator) 
   (A C++ program to show a tree in the output console).
 
