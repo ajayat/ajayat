@@ -2,20 +2,20 @@
 I am a computer science student at Telecom Physique Strasbourg. <br>
 I learned programming by myself and I am passionate about algorithms.
 
-### Python 3
+### Python
 I have been coding in [Python] since I was 13 years old.
 Personally, I value it for scientific uses, to build website backends, APIs, algorithms and more recently, smart contracts on Ethereum.
 
 #### Some projects
-- [mp2i-discord-bot](https://github.com/prepas-mp2i/mp2i-discord-bot): a bot built for a Discord server of students.
-- [robocup](https://github.com/ajayat/robocup): a project for the robotics club at my high school.
+- [mp2i-discord-bot](https://github.com/prepas-mp2i/mp2i-discord-bot) a bot built for a Discord server of students.
+- [robocup](https://github.com/ajayat/robocup) a project for the robotics club at my high school.
 
 ### C/C++
 I have a very good command of C and [C++]. I use C for system programming mainly, and C++ to make projects such as games.
 
 #### Some projects
-- [tree-generator](https://github.com/ajayat/tree-generator): a C++ program to pretty print a tree in a terminal.
-- [minichess-project](https://github.com/ajayat/minichess-project): a terminal-based chess game using the Stockfish engine.
+- [tree-generator](https://github.com/ajayat/tree-generator) a C++ program to pretty print a tree in a terminal.
+- [minichess](https://github.com/ajayat/minichess) a terminal-based chess game using the Stockfish engine.
 
 ### OCaml & Julia
 [Julia] is a very promising language which combines the beauty and syntactic simplicity of Python with the speed of C++. 
