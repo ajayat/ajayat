@@ -17,10 +17,6 @@ I have a very good command of C and [C++]. I use C for system programming mainly
 - [tree-generator](https://github.com/ajayat/tree-generator) a C++ program to pretty print a tree in a terminal.
 - [minichess](https://github.com/ajayat/minichess) a terminal-based chess game using the Stockfish engine.
 
-### OCaml & Julia
-[Julia] is a very promising language which combines the beauty and syntactic simplicity of Python with the speed of C++. 
-I have also good basis in [OCaml].
-
 ### Other tools
 [![React](img/React.png)][React]
 [![Git](https://img.icons8.com/color/50/000000/git.png)][Git]
